@@ -7,3 +7,5 @@ Setup
 
 Note::This project is made on google colab so I used drive to save my model 
 and my lexicon. Please change path according to you
+
+This model defines the sentiment of the sentence
